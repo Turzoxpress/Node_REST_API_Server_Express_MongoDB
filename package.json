@@ -1,0 +1,17 @@
+{
+  "name": "node_express_test_server",
+  "version": "1.0.0",
+  "description": "![Alt Node.js Express MongoDB](/screenshots/node.gif \"Node.js Express MongoDB\")",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0",
+    "nodemon": "^2.0.15"
+  }
+}
