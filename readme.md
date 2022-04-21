@@ -231,11 +231,16 @@ npm start
 
 #### Now it's time to test our newly created APIs with Postman.
 
+* localhost:3000/welcome
+
 ![Alt Node.js Express MongoDB](/screenshots/s4.png "Node.js Express MongoDB")
-<br><br>
+
+
+* localhost:3000/createUser
 
 ![Alt Node.js Express MongoDB](/screenshots/s5.png "Node.js Express MongoDB")
-<br><br>
+
+* localhost:3000/getAllUsers
 
 ![Alt Node.js Express MongoDB](/screenshots/s6.png "Node.js Express MongoDB")
 
