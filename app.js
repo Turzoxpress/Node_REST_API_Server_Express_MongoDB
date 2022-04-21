@@ -81,5 +81,6 @@ app.get("/getAllUsers", async (req, res) => {
 
 //start node server on 3000 port
 app.listen(port, () => {
+    
     console.log(`Server started successfully on port ${port}`)
   })
